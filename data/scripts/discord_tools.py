@@ -61,8 +61,11 @@ ________  .__                              .___ ___________           .__
     elif USER_OPTION == "4":
         clearcmd()
         os.system('python ./data/scripts/discord_joiner.py')
-    elif USER_OPTION == "5":
+    elif USER_OPTION == "6":
         clearcmd()
         os.system("python main.py")
-    elif USER_OPTION == "6":
+    elif USER_OPTION == "7":
         quit()
+    elif USER_OPTION == "5":
+        clearcmd()
+        save2()
