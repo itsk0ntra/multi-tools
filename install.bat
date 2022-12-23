@@ -1,0 +1,9 @@
+pip install requests
+pip install time
+pip install os
+pip install datetime
+pip install subprocess
+pip install asyncio
+pip install sys
+pip install colorama
+pip install random
