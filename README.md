@@ -7,3 +7,4 @@ many thanks to https://github.com/cutieQue for the server id lookup and https://
 
 # Information
 I will update this project almost every day, so watch out for updates and give the project a star to support me :)
+https://bit.ly/itssnee
