@@ -8,3 +8,6 @@ many thanks to https://github.com/cutieQue for the server id lookup and https://
 # Information
 I will update this project almost every day, so watch out for updates and give the project a star to support me :)
 https://bit.ly/itssnee
+
+# open source
+yes this project is open source, but please don't resell it or remake it/copy it and upload it without giving credits to me and all people I credited in the credits title.
