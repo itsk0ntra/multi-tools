@@ -12,7 +12,8 @@ import sys
 import colorama
 from colorama import Fore, Style, init
 import random
-from data.scripts.discord_tools import dc_tools 
+from data.scripts.discord_tools import dc_tools
+from data.scripts.tutorial import tuto
 
 class bcolors:
     HEADER = '\033[95m'
@@ -81,9 +82,7 @@ def zyzz():
     dc_tools()
   elif USER_OPTION == "3":
     clearcmd()
-    print(bcolors.OKBLUE + "tutorial will be here soon...  ")
-    time.sleep(1.50)
-    zyzz()
+    tuto()
   elif USER_OPTION == "2":
     clearcmd()
     grabbers()
