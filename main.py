@@ -14,7 +14,6 @@ from colorama import Fore, Style, init
 import random
 from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
-from main import zyzz
 
 class bcolors:
     HEADER = '\033[95m'
@@ -47,17 +46,17 @@ def additional():
 
               Options  
              """)
-    print(bcolor.OKBLUE + """
+    print(bcolors.OKBLUE + """
           [1]Strong Password Gen
           [2]Back
           """)
-          USER_OPTION3 = input(bcolors.OKBLUE +    "[>] ")
-          if USER_OPTION3 == "1":
-            clearcmd()
-            os.system('python ./data/grabber_scripts/password_gen.py')
-          if USER_OPTION3 == "2":
-            clearcmd()
-            zyzz()
+    USER_OPTION3 = input(bcolors.OKBLUE +    "[>] ")
+    if USER_OPTION3 == "1":
+        clearcmd()
+        os.system('python ./data/scripts/password_gen.py')
+    if USER_OPTION3 == "2":
+        clearcmd()
+        zyzz()
     
 def grabbers():
   print(bcolors.OKBLUE + """
@@ -118,5 +117,6 @@ def zyzz():
     grabbers()
   elif USER_OPTION == "4":
     clearcmd()
+    additional()
 
 zyzz()
