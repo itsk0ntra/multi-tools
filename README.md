@@ -27,7 +27,7 @@ I will update this project almost every day, so watch out for updates and give t
 # Open Source
 yes this project is open source, but please don't resell it or remake it/copy it and upload it without giving credits to me and all people I credited in the credits title.
 
-this project is open source so you can see how easy it is to hack/crack something or someone or do some bullshit with acess tokens etc.
+this project is open source so you can see how easy it is to hack/crack something or someone or do some bullshit with acess tokens etc. but don't use it for malicious purposes.
 
 # Features
 🟢working
