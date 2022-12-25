@@ -1,12 +1,12 @@
 # Preview
 ![image](https://media.discordapp.net/attachments/1023335164388069497/1056534741962203246/image.png)
 
-# multi-tools
+# Multi-Tools
 python project for many purposes and functions, mostly discord, in every function I didn't make myself I credited the creators.
 
 please don't use this project for illegal purposes.
 
-# credits
+# Credits
 many thanks to:
 
 https://github.com/cutieQue for the server id lookup
@@ -24,7 +24,7 @@ https://github.com/Blank-c/ for the trojan grabber
 # Information
 I will update this project almost every day, so watch out for updates and give the project a star to support me :)
 
-# open source
+# Open Source
 yes this project is open source, but please don't resell it or remake it/copy it and upload it without giving credits to me and all people I credited in the credits title.
 
 # Features
