@@ -7,3 +7,5 @@ pip install asyncio
 pip install sys
 pip install colorama
 pip install random
+pip install discord
+pip install pyperclip
