@@ -22,6 +22,8 @@ yes this project is open source, but please don't resell it or remake it/copy it
 
 🟠detected by anti virus (for grabbers)
 
+
+
 » 🟢Discord Account Backup
 
 » 🟢Discord Account Checker
