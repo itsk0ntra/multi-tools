@@ -1,0 +1,9 @@
+{
+    "Token" : "YOUR-DISCORD-TOKEN",
+    "pass" : "CUSTOM-PASSWORD",
+
+    "saveFriends" : "true",
+    "saveBlocked" : "true",
+    "saveguilds"  : "true"
+
+}
