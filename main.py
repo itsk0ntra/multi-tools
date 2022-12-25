@@ -61,6 +61,7 @@ def grabbers():
 
 def zyzz():
   print(bcolors.OKBLUE + "Today's date:",today)
+  print(bcolors.OKBLUE + "https://github.com/itssnee/multi-tools/")
   print(bcolors.OKBLUE + """                      
    _____        .__   __  .__  ___________           .__   
   /     \  __ __|  |_/  |_|__| \__    ___/___   ____ |  |  
