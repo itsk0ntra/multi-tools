@@ -1,3 +1,6 @@
+# Preview
+!(image)[https://media.discordapp.net/attachments/1023335164388069497/1056532567500783717/image.png]
+
 # multi-tools
 python project for many purposes and functions, mostly discord, in every function I didn't make myself I credited the creators.
 
@@ -22,7 +25,7 @@ I will update this project almost every day, so watch out for updates and give t
 # open source
 yes this project is open source, but please don't resell it or remake it/copy it and upload it without giving credits to me and all people I credited in the credits title.
 
-## Features
+# Features
 🟢working
 
 🔴patched
