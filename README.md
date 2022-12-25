@@ -32,7 +32,7 @@ yes this project is open source, but please don't resell it or remake it/copy it
 
 🔴patched
 
-🟡in development/updating
+🟡in development/updating (could be working, but maybe doesn't work)
 
 🟠detected by anti virus (for grabbers)
 
