@@ -1,25 +1,14 @@
 import qrcode
 
-class bcolors:
-    HEADER = '\033[95m'
-    OKBLUE = '\033[94m'
-    OKCYAN = '\033[96m'
-    OKGREEN = '\033[92m'
-    WARNING = '\033[93m'
-    FAIL = '\033[91m'
-    ENDC = '\033[0m'
-    BOLD = '\033[1m'
-    UNDERLINE = '\033[4m'
-
-print(bcolors.OKBLUE + """
+print("""
 ________ __________  _________            .___          ________               
 \_____  \\______   \ \_   ___ \  ____   __| _/____     /  _____/  ____   ____  
  /  / \  \|       _/ /    \  \/ /  _ \ / __ |/ __ \   /   \  ____/ __ \ /    \ 
-/   \_/.  \    |   \ \     \___(  <_> ) /_/ \  ___/   \    \_\  \  ___/|   |  \
+/   \_/.  \    |   \ \     \___(  <_> ) /_/ \  ___/   \    \_\  \  ___/|   |  
 \_____\ \_/____|_  /  \______  /\____/\____ |\___  >   \______  /\___  >___|  /
        \__>      \/          \/            \/    \/           \/     \/     \/ 
        """)
-data = input(bcolors.OKBLUE + "Enter your link:")
+data = input("Enter your link:")
 img = qrcode.make(data)
 img.save('QRCode.png')
-print(bcolors.OKBLUE + "saved qr code as QRCode.png in this folder.")
+print("saved qr code as QRCode.png in this folder.")
