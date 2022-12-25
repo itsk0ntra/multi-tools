@@ -1,5 +1,5 @@
 # Preview
-!(image)[https://media.discordapp.net/attachments/1023335164388069497/1056532567500783717/image.png]
+![image](https://media.discordapp.net/attachments/1023335164388069497/1056532567500783717/image.png)
 
 # multi-tools
 python project for many purposes and functions, mostly discord, in every function I didn't make myself I credited the creators.
