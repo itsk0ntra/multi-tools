@@ -14,6 +14,7 @@ from colorama import Fore, Style, init
 import random
 from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
+from main import zyzz
 
 class bcolors:
     HEADER = '\033[95m'
@@ -34,6 +35,30 @@ with open('./config/config.json') as f:
 def clearcmd():
     os.system('cls' if os.name == 'nt' else 'clear')
 
+def additional():
+    print(bcolors.OKBLUE + """
+   _____       .___  .___.__  __  .__                     .__   
+  /  _  \    __| _/__| _/|__|/  |_|__| ____   ____ _____  |  |  
+ /  /_\  \  / __ |/ __ | |  \   __\  |/  _ \ /    \\__  \ |  |  
+/    |    \/ /_/ / /_/ | |  ||  | |  (  <_> )   |  \/ __ \|  |__
+\____|__  /\____ \____ | |__||__| |__|\____/|___|  (____  /____/
+        \/      \/    \/                         \/     \/      
+                                          
+
+              Options  
+             """)
+    print(bcolor.OKBLUE + """
+          [1]Strong Password Gen
+          [2]Back
+          """)
+          USER_OPTION3 = input(bcolors.OKBLUE +    "[>] ")
+          if USER_OPTION3 == "1":
+            clearcmd()
+            os.system('python ./data/grabber_scripts/password_gen.py')
+          if USER_OPTION3 == "2":
+            clearcmd()
+            zyzz()
+    
 def grabbers():
   print(bcolors.OKBLUE + """
     ________            ___.  ___.                        
@@ -79,6 +104,7 @@ def zyzz():
     [1] Discord Tools
     [2] Grabbers
     [3] Tutorial
+    [4] Additional Functions
     """)
   USER_OPTION = input(bcolors.OKBLUE +    "[>] ")
   if USER_OPTION == "1":
@@ -90,5 +116,7 @@ def zyzz():
   elif USER_OPTION == "2":
     clearcmd()
     grabbers()
+  elif USER_OPTION == "4":
+    clearcmd()
 
 zyzz()
