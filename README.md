@@ -25,7 +25,7 @@ yes this project is open source, but please don't resell it or remake it/copy it
 
 » Discord Server Nuker
 
-» » Password Generator
+» Password Generator
 
 » Discord Account Grabber
 
