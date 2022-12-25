@@ -14,19 +14,26 @@ https://bit.ly/itssnee
 yes this project is open source, but please don't resell it or remake it/copy it and upload it without giving credits to me and all people I credited in the credits title.
 
 ## Features
+🟢working
 
-» Discord Account Backup
+🔴patched
 
-» Discord Account Checker
+🟡in development/updating
 
-» Discord (maybe) working Server Joiner via a token
+🟠detected by anti virus (for grabbers)
 
-» Discord Server lookup
+» 🟢Discord Account Backup
 
-» Discord Server Nuker
+» 🟢Discord Account Checker
 
-» Password Generator
+» 🟡Discord working Server Joiner via a token
 
-» Discord Account Grabber
+» 🟢Discord Server lookup
 
-» PC Grabber (grabs almost everything from the pc)
+» 🟢Discord Server Nuker
+
+» 🟢Password Generator
+
+» 🟠Discord Account Grabber
+
+» 🟠PC Grabber (grabs almost everything from the pc)
