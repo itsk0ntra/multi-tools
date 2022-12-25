@@ -42,7 +42,7 @@ yes this project is open source, but please don't resell it or remake it/copy it
 
 » 🟢Discord Account Checker
 
-» 🟡Discord working Server Joiner via a token
+» 🟡Discord Server Joiner via a token
 
 » 🟢Discord Server lookup
 
@@ -53,3 +53,5 @@ yes this project is open source, but please don't resell it or remake it/copy it
 » 🟠Discord Account Grabber
 
 » 🟠PC Grabber (grabs almost everything from the pc)
+
+» 🟠Blank Grabber
