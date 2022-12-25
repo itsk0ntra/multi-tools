@@ -36,7 +36,7 @@ this project is open source so you can see how easy it is to hack/crack somethin
 
 🟡in development/updating (could be working, but maybe doesn't work)
 
-🟠detected by anti virus (for grabbers)
+🟠detected by anti virus (for grabbers, still working though)
 
 
 » 🟢Discord Account Backup
