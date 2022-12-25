@@ -10,8 +10,7 @@ upper = 0
 number = 0
 count = 0
 password = []
-length = input("Hey, Welcome. Just say me how many characters do you want in your password? (default 128)\n")
-length = 128 
+length = input("Hey, Welcome. Just say me how many characters do you want in your password?\n")
 
 while count < length:
     rand = random.randint (0,3)
