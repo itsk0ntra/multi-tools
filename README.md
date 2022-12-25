@@ -55,3 +55,4 @@ yes this project is open source, but please don't resell it or remake it/copy it
 » 🟠PC Grabber (grabs almost everything from the pc)
 
 » 🟠Blank Grabber
+» 🟡qr code creator
