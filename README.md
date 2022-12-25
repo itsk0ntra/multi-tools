@@ -39,7 +39,6 @@ this project is open source so you can see how easy it is to hack/crack somethin
 🟠detected by anti virus (for grabbers)
 
 
-
 » 🟢Discord Account Backup
 
 » 🟢Discord Account Checker
