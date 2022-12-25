@@ -1,5 +1,8 @@
 import random
 import pyperclip
+  
+def clearcmd():
+    os.system('cls' if os.name == 'nt' else 'clear')
 
 symbol = 0
 lower = 0
@@ -7,9 +10,8 @@ upper = 0
 number = 0
 count = 0
 password = []
-
 length = input("Hey, Welcome. Just say me how many characters do you want in your password? (default 128)\n")
-length = 128 if length is '' else int(length)
+length = 128 
 
 while count < length:
     rand = random.randint (0,3)
