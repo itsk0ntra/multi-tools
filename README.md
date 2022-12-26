@@ -38,6 +38,7 @@ this project is open source so you can see how easy it is to hack/crack somethin
 
 🟠detected by anti virus (for grabbers, still working though)
 
+🔵will be added soon
 
 » 🟢Discord Account Backup
 
@@ -58,3 +59,5 @@ this project is open source so you can see how easy it is to hack/crack somethin
 » 🟠Blank Grabber
 
 » 🟡qr code creator
+
+» 🔵tutorial section when you start the program (if you need help with something, basic things to start the programs are in usage.txt)
