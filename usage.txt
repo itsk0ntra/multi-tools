@@ -1,0 +1,2 @@
+start install.bat
+then try to start main.py (if you haven't installed python yet, the install.bat file and main.py file won't work)
