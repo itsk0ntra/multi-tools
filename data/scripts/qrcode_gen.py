@@ -1,4 +1,5 @@
 import qrcode
+import time
 
 print("""
 ________ __________  _________            .___          ________               
@@ -8,7 +9,10 @@ ________ __________  _________            .___          ________
 \_____\ \_/____|_  /  \______  /\____/\____ |\___  >   \______  /\___  >___|  /
        \__>      \/          \/            \/    \/           \/     \/     \/ 
        """)
+
 data = input("Enter your link:")
 img = qrcode.make(data)
 img.save('QRCode.png')
 print("saved qr code as QRCode.png in this folder.")
+print("if you enjoyed the program, please give it a star on github.")
+time.sleep(5.00)
