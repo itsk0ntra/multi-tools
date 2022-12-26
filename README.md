@@ -58,6 +58,6 @@ this project is open source so you can see how easy it is to hack/crack somethin
 
 » 🟠Blank Grabber
 
-» 🟡qr code creator
+» 🟢qr code creator
 
 » 🔵tutorial section when you start the program (if you need help with something, basic things to start the programs are in usage.txt)
