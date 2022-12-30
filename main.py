@@ -15,6 +15,7 @@ import random
 from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
 import ctypes
+import modules.reaper
 
 ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.3 | https://github.com/itssnee/multi-tools ")
 
