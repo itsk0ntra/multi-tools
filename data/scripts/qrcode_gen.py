@@ -1,6 +1,7 @@
 import qrcode
 import time
 
+print("https://github.com/itssnee/ on top")
 print("""
 ________ __________  _________            .___          ________               
 \_____  \\______   \ \_   ___ \  ____   __| _/____     /  _____/  ____   ____  
