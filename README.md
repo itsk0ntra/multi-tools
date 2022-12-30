@@ -30,34 +30,11 @@ yes this project is open source, but please don't resell it or remake it/copy it
 this project is open source so you can see how easy it is to hack/crack something or someone or do some bullshit with acess tokens etc. but don't use it for malicious purposes.
 
 # Features
-🟢working
-
-🔴patched
-
-🟡in development/updating (could be working, but maybe doesn't work)
-
-🟠detected by anti virus (for grabbers, still working though)
-
-🔵will be added soon
-
-» 🟢Discord Account Backup
-
-» 🟢Discord Account Checker
-
-» 🟡Discord Server Joiner via a token
-
-» 🟢Discord Server lookup
-
-» 🟢Discord Server Nuker
-
-» 🟢Password Generator
-
-» 🟠Discord Account Grabber
-
-» 🟠PC Grabber (grabs almost everything from the pc)
-
-» 🟠Blank Grabber
-
-» 🟢qr code creator
-
-» 🔵tutorial section when you start the program (if you need help with something, basic things to start the programs are in usage.txt)
+| **🟢working**             | **🔴patched** | **🟡in development/updating (could be working, but maybe doesn't work)** | **🟠detected by anti virus (still working though)** | **🔵will be added soon**                                                                                                             |
+|--------------------------|--------------|-------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
+| 🟢Discord Account Backup  |              | 🟡Discord Server Joiner via a token                                      | 🟠Discord Account Grabber                           | 🔵tutorial section when you start the program (if you need help with something, basic things to start the programs are in usage.txt) |
+| 🟢Discord Account Checker |              |                                                                         | 🟠PC Grabber (grabs almost everything from the pc)  |                                                                                                                                     |
+| 🟢Discord Server lookup   |              |                                                                         | 🟠Blank Grabber                                     |                                                                                                                                     |
+| 🟢Discord Server Nuker    |              |                                                                         |                                                    |                                                                                                                                     |
+| 🟢Password Generator      |              |                                                                         |                                                    |                                                                                                                                     |
+| 🟢qr code creator         |              |                                                                         |                   |                                     
