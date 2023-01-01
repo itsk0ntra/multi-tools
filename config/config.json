@@ -1,4 +1,5 @@
 {
   "webhook": "PUT-WEBHOOK-HERE",
-  "botToken": "PUT-TOKEN-HERE"
+  "botToken": "PUT-TOKEN-HERE",
+  "invite": "PUT-INVITE-HERE",
 }
