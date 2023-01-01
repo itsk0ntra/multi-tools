@@ -32,3 +32,4 @@ def clearcmd():
 def tuto():
     print("currently being made....")
     print("if you want to know how to use the program, open usage.txt")
+    time.sleep(5.00)
