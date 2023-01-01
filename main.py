@@ -8,7 +8,7 @@ from colorama import Fore, Style, init
 from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
 import ctypes
-import modules.reaper
+import modules.reaper as fuck
 
 ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.5 | https://github.com/itssnee/multi-tools ")
 
@@ -90,6 +90,9 @@ def grabbers():
        clearcmd()
        os.system('python ./data/grabber_scripts/blank_grabber.py')
 
+def fucker():
+  fuck()
+
 def zyzz():
   print(bcolors.OKBLUE + "Today's date:",today)
   print(bcolors.OKBLUE + "https://github.com/itssnee/multi-tools/")
@@ -108,6 +111,7 @@ def zyzz():
     [2] Grabbers
     [3] Tutorial
     [4] Additional Functions
+    [5] PC Fucker (will fuck ur pc)
     """)
   USER_OPTION = input(bcolors.OKBLUE +    "[>] ")
   if USER_OPTION == "1":
@@ -122,5 +126,8 @@ def zyzz():
   elif USER_OPTION == "4":
     clearcmd()
     additional()
+  elif USER_OPTION == "5":
+    clearcmd()
+    fucker()
 
 zyzz()
