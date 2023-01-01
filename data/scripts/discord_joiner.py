@@ -1,5 +1,9 @@
 import sys
+import json
 import colorama, requests
+
+with open('./config/config.json') as f:
+   config = json.load(f)
 
 def spammer():
     invite_code = str(requests.get(config["invite"]).text)
