@@ -10,7 +10,7 @@ from data.scripts.tutorial import tuto
 import ctypes
 import modules.reaper
 
-ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.4 | https://github.com/itssnee/multi-tools ")
+ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.5 | https://github.com/itssnee/multi-tools ")
 
 class bcolors:
     HEADER = '\033[95m'
