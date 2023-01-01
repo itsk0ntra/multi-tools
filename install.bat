@@ -12,3 +12,4 @@ pip install pyperclip
 pip install ctypes
 pip install qrcode
 pip install image
+pip install pyautogui
