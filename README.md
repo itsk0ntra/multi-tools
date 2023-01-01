@@ -20,7 +20,7 @@ https://github.com/Vladimir-0001 for the account backup tool
 
 https://github.com/Blank-c/ for the trojan grabber
 
-https://github.com/itsstremz/ for helping me making this project:]
+https://github.com/itsstremz/ for helping me making this project :]
 
 # Information
 I will update this project almost every day, so watch out for updates and give the project a star to support me :)
