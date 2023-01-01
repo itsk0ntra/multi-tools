@@ -1,6 +1,7 @@
 import random
 import pyperclip
-  
+import os
+
 def clearcmd():
     os.system('cls' if os.name == 'nt' else 'clear')
 
