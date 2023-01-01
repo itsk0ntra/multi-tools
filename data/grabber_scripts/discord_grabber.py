@@ -1,17 +1,6 @@
-import requests
 import time
 import os
-import json
-import datetime
 from datetime import date
-from requests import get, post
-from random import randint
-import subprocess
-import asyncio
-import sys
-import colorama
-from colorama import Fore, Style, init
-import random
 
 class bcolors:
     HEADER = '\033[95m'
