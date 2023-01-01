@@ -3,9 +3,6 @@
 
 [Releases](https://github.com/itssnee/multi-tools/releases/)
 # Multi-Tools
-python project for many purposes and functions, mostly discord, in every function I didn't make myself I credited the creators.
-[Visit the site here](https://itssnee.github.io/multi-tools/).
-
 please don't use this project for illegal purposes. i am not responsible for the user's actions.
 
 # Credits
@@ -27,6 +24,8 @@ https://github.com/itsstremz/ for helping me making this project:]
 
 # Information
 I will update this project almost every day, so watch out for updates and give the project a star to support me :)
+
+[Visit the site here](https://itssnee.github.io/multi-tools/)
 
 # Open Source
 yes this project is open source, but please don't resell it or remake it/copy it and upload it without giving credits to me and all people I credited in the credits title.
