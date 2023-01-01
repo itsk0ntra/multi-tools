@@ -1,6 +1,5 @@
 from requests import get, post
 from random import randint
-import time
 
 class bcolors:
     HEADER = '\033[95m'
