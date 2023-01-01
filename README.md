@@ -47,3 +47,8 @@ Because I don't want to waste time since this project is free anyways
 
 # Why do you sometimes import modules that you don't even use?
 code is a bit messy since it's a free project, we might clean the code in the future.
+
+# Main Developers
+https://github.com/itsstremz/
+
+https://github.com/itssnee/
