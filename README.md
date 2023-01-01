@@ -41,5 +41,9 @@ this project is open source so you can see how easy it is to hack/crack somethin
 | 🟢Discord Server Nuker    |              |                                                                         |                                                    |                                                                                                                                     |
 | 🟢Password Generator      |              |                                                                         |                                                    |                                                                                                                                     |
 | 🟢qr code creator         |              |                                                                         |                   |                                     
+
 # BuT sNeE, iF yOu CaN cOdE, wHy DoN't u MaKe It YoUrSeLf
 Because I don't want to waste time since this project is free anyways
+
+# Why do you sometimes import modules that you don't even use?
+code is a bit messy since it's a free project, we might clean the code in the future.
