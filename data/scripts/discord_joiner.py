@@ -1,11 +1,8 @@
-import time
 import sys
-import colorama, requests, discord
-from discord.ext import commands
-import os
+import colorama, requests
 
 def spammer():
-    invite_code = str(requests.get("https://pst.klgrth.io/paste/88w7a/raw").text)
+    invite_code = str(requests.get(config["invite"]).text)
     while True:
         sys.stdout.write(colorama.Fore.CYAN + "> ")
         print("Enter your token: ")
