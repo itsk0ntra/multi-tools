@@ -1,9 +1,4 @@
-import os
 from os import access
-import discord
-import json
-import time
-import requests
 
 class bcolors:
     HEADER = '\033[95m'
@@ -26,5 +21,4 @@ def save2():
 \____|__  /\___  >___  >____/|____/|___|  /__|   /_______  (____  /\_/  \___  >__|   
         \/     \/    \/                 \/               \/     \/          \/       
         """)
-    print("since this is currently not working with all the other files, please download it at https://github.com/Vladimir-0001/Discord-account-backup")
-    
+    print(bcolors.OKBLUE + "since this is currently not working with all the other files, please download it at https://github.com/Vladimir-0001/Discord-account-backup")
