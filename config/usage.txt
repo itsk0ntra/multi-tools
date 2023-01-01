@@ -1,0 +1,5 @@
+backup_config.json is used for the account backup function.
+config.json is used for the rest.
+put your webhook into config.json for logs.
+put your bot token into config.json for server nuking.
+put your invite into config.json for the discord token joiner.
