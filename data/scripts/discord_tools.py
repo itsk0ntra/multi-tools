@@ -1,18 +1,10 @@
-import requests
-import time
 import os
-import json
-import datetime
 from datetime import date
 from requests import get, post
 from random import randint
-import subprocess
-import asyncio
-import sys
-import colorama
 from colorama import Fore, Style, init
-import random
 from data.scripts.discord_lookup import lookup
+from data.scripts.better_discord import better_dc
 
 class bcolors:
     HEADER = '\033[95m'
@@ -46,9 +38,10 @@ ________  .__                              .___ ___________           .__
     [3] Discord Server ID Lookup
     [4] Mass DM
     [5] Back
-    [6] Quit
+    [6] Better Discord Section
+    [7] Quit
     """)
-    USER_OPTION = input(    "[>] ")
+    USER_OPTION = input(bcolors.OKBLUE +     "[>] ")
     if USER_OPTION == "1":
         clearcmd()
         os.system('python ./data/scripts/discord_checker.py')  
@@ -61,11 +54,11 @@ ________  .__                              .___ ___________           .__
     elif USER_OPTION == "4":
         clearcmd()
         os.system('python ./data/scripts/discord_joiner.py')
-    elif USER_OPTION == "6":
+    elif USER_OPTION == "5":
         clearcmd()
         os.system("python main.py")
     elif USER_OPTION == "7":
         quit()
-    elif USER_OPTION == "5":
+    elif USER_OPTION == "6":
         clearcmd()
-        save2()
+        better_dc()
