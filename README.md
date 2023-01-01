@@ -1,6 +1,7 @@
 # Preview
 ![image](https://media.discordapp.net/attachments/1023335164388069497/1056534741962203246/image.png)
 
+[Releases](https://github.com/itssnee/multi-tools/releases/tag/multi-toolsv1.4)
 # Multi-Tools
 python project for many purposes and functions, mostly discord, in every function I didn't make myself I credited the creators.
 [Visit the site here](https://itssnee.github.io/multi-tools/).
