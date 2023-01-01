@@ -1,5 +1,5 @@
 # Preview
-![image](https://media.discordapp.net/attachments/1023335164388069497/1056534741962203246/image.png)
+![image](https://media.discordapp.net/attachments/1021828286541733978/1059115980170743888/image.png)
 
 [Releases](https://github.com/itssnee/multi-tools/releases/)
 # Multi-Tools
