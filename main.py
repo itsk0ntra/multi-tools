@@ -1,17 +1,10 @@
-import requests
-import time
 import os
 import json
-import datetime
 from datetime import date
 from requests import get, post
 from random import randint
 import subprocess
-import asyncio
-import sys
-import colorama
 from colorama import Fore, Style, init
-import random
 from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
 import ctypes
