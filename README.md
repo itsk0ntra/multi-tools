@@ -49,6 +49,6 @@ Because I don't want to waste time since this project is free anyways
 code is a bit messy since it's a free project, we might clean the code in the future.
 
 # Main Developers
-https://github.com/itsstremz/
+[Snee](https://github.com/itsstremz/)
 
-https://github.com/itssnee/
+[Stremz](https://github.com/itssnee/)
