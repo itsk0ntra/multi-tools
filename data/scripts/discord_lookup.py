@@ -1,12 +1,9 @@
 import colorama
-from colorama import Fore, Back, Style, init
+from colorama import Fore
 import requests
 from time import sleep
 import os
 import os.path
-from requests.api import options
-import sys
-import webbrowser
 os.system('cls' if os.name == 'nt' else 'clear')
 colorama.init(autoreset=True)
 
