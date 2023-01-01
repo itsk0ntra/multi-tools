@@ -45,8 +45,5 @@ this project is open source so you can see how easy it is to hack/crack somethin
 # BuT sNeE, iF yOu CaN cOdE, wHy DoN't u MaKe It YoUrSeLf
 Because I don't want to waste time since this project is free anyways
 
-# Why do you sometimes import modules that you don't even use?
-code is a bit messy since it's a free project, we might clean the code in the future.
-
 # Main Developers
 [Snee](https://github.com/itsstremz/) and [Stremz](https://github.com/itssnee/)
