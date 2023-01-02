@@ -8,7 +8,6 @@ from colorama import Fore, Style, init
 from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
 import ctypes
-import modules.reaper as fuck
 
 ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.5 | https://github.com/itssnee/multi-tools ")
 
@@ -128,6 +127,6 @@ def zyzz():
     additional()
   elif USER_OPTION == "5":
     clearcmd()
-    fucker()
+    os.system('python ./modules/reaper.py')
 
 zyzz()
