@@ -46,4 +46,4 @@ this project is open source so you can see how easy it is to hack/crack somethin
 Because I don't want to waste time since this project is free anyways
 
 # Main Developers
-[Snee](https://github.com/itsstremz/) and [Stremz](https://github.com/itssnee/)
+[Snee](https://github.com/itssnee/) and [Stremz](https://github.com/itsstremz)
