@@ -41,7 +41,6 @@ this project is open source so you can see how easy it is to hack/crack somethin
 | 🟢Discord Server Nuker    |              |                                                                         |                                                    |                                                                                                                                     |
 | 🟢Password Generator      |              |                                                                         |                                                    |                                                                                                                                     |
 | 🟢qr code creator         |              |                                                                         |                   |
-   |                        |              |                                                                          |                   |
 |🟢pc fucker                |              |                                                                          |                   |
 
 # BuT sNeE, iF yOu CaN cOdE, wHy DoN't u MaKe It YoUrSeLf
