@@ -12,7 +12,7 @@ class console():
 \____|__  /___|  /\____/|___|  /\___  /   |__|____/\___  >____  >
         \/     \/            \/     \/                 \/     \/ 
         """)
-  Console()  
+console()  
         
 class anon():    
   def  __init__(self):
