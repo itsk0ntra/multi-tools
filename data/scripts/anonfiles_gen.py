@@ -4,7 +4,7 @@ from colorama import Fore
 class console():
     def __init__(self):
         os.system('cls && title Anonfiles Generator ^| github.com/itsstremz||clear')
-        print(f"""
+        print(f"""{Fore.BLUE}
         
    _____                       ___________.__.__                 
   /  _  \   ____   ____   ____ \_   _____/|__|  |   ____   ______
@@ -13,7 +13,7 @@ class console():
 \____|__  /___|  /\____/|___|  /\___  /   |__|____/\___  >____  >
         \/     \/            \/     \/                 \/     \/
                                                      
-        github.com/{Fore.RED}itsstremz{Fore.RESET} | github.com/{Fore.RED}itssnee{Fore.RESET} | github.com/{Fore.RED}itssnee/multi-tools{Fore.RESET}      
+        {Fore.RESET}github.com/{Fore.RED}itsstremz{Fore.RESET} | github.com/{Fore.RED}itssnee{Fore.RESET} | github.com/itssnee/{Fore.RED}multi-tools{Fore.RESET}      
 
     """)
 
@@ -39,5 +39,4 @@ class anon():
             print(f"[{Fore.LIGHTRED_EX}{time.strftime('%H:%M:%S', time.localtime())}{Fore.RESET}] {Fore.BLUE}Invalid Code: {self.link} | Error: {r['error']['type']}")
             
 while True:
-    threading.Thread(target=anon().gen_code()).start()
     threading.Thread(target=anon().gen_code()).start()
