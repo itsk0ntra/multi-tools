@@ -25,6 +25,8 @@ https://github.com/itsstremz/ for helping me making this project :]
 # Information
 I will update this project almost every day, so watch out for updates and give the project a star to support me :)
 
+I'm mostly tired while I code this, so if something doesn't work just open an issue thing and don't be mad.
+
 [Visit the site here](https://itssnee.github.io/multi-tools/)
 
 # Open Source
