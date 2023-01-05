@@ -46,5 +46,12 @@ this project is open source so you can see how easy it is to hack/crack somethin
 # BuT sNeE, iF yOu CaN cOdE, wHy DoN't u MaKe It YoUrSeLf
 Because I don't want to waste time since this project is free anyways
 
+# Why isn't it only one file?
+1. So we can edit it easier (don't have to scroll through all the bullshit
+
+2. So skids also have some work to do if they want to change everything
+
+3. So you can't just obfusocate and resell it :]
+
 # Main Developers
 [Snee](https://github.com/itssnee/) and [Stremz](https://github.com/itsstremz)
