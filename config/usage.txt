@@ -3,3 +3,4 @@ config.json is used for the rest.
 put your webhook into config.json for logs.
 put your bot token into config.json for server nuking.
 put your invite into config.json for the discord token joiner.
+put your proxies into proxies.txt for the discord token checker(proxy checker has some bugs currently)
