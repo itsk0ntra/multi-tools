@@ -51,7 +51,7 @@ Because I don't want to waste time since this project is free anyways
 
 2. So skids also have some work to do if they want to change everything
 
-3. So you can't just obfusocate and resell it :]
+3. So you can't just (instantly) obfusocate and resell it :]
 
 # Main Developers
 [Snee](https://github.com/itssnee/) and [Stremz](https://github.com/itsstremz)
