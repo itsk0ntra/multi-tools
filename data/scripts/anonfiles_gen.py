@@ -1,4 +1,3 @@
-#soon will be added
 import random, os, requests, json, colorama, time, threading
 from colorama import Fore
 
@@ -30,7 +29,7 @@ class anon():
     
     if (visit['status'] == "True"):
       print(f"[{Fore.LIGHTRED_EX}{time.strftime('%H:%M:%S', time.localtime())}{Fore.RESET}] {Fore.GREEN}Working Code: {Fore.WHITE}{r['data']['file']['metadata']['id']}{Fore.RESET}  |  Name: {Fore.WHITE}{self.code}{Fore.RESET}")
-            open('./data/output/hits.txt', 'a+').write(f'https://anonfiles.com/{code_id}/{name}\n')
+      open('./data/output/hits.txt', 'a+').write(f'https://anonfiles.com/{code_id}/{name}\n')
     else:
             print(f"[{Fore.LIGHTRED_EX}{time.strftime('%H:%M:%S', time.localtime())}{Fore.RESET}] {Fore.LIGHTRED_EX}Invalid Code: {Fore.WHITE}{self.code}{Fore.RESET} | Error: {r['error']['type']}")
         
