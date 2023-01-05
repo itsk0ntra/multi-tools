@@ -45,6 +45,7 @@ def additional():
     print(bcolors.OKBLUE + """
           [1]Strong Password Gen
           [2]QR Code Creator
+          [3]Anonfiles link Gen
           [0]Back
           """)
     USER_OPTION3 = input(bcolors.OKBLUE +    "[>] ")
@@ -57,6 +58,10 @@ def additional():
     elif USER_OPTION3 == "2":
         clearcmd()
         os.system('python ./data/scripts/qrcode_gen.py')
+    elif USER_OPTION3 == "3":
+        clearcmd()
+        os.system('python ./data/scripts/anonfiles_gen.py')
+        
 def grabbers():
   print(bcolors.OKBLUE + """
     ________            ___.  ___.                        
