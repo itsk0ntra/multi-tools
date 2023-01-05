@@ -44,6 +44,7 @@ this project is open source so you can see how easy it is to hack/crack somethin
 | 🟢Password Generator      |              |                                                                         |                                                    |                                                                                                                                     |
 | 🟢qr code creator         |              |                                                                         |                   |
 |🟢pc fucker                |              |                                                                          |                   |
+|🟢Discord Account Proxy Checker               |              |                                                                          |                   |
 
 # BuT sNeE, iF yOu CaN cOdE, wHy DoN't u MaKe It YoUrSeLf
 Because I don't want to waste time since this project is free anyways
