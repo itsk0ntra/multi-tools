@@ -21,7 +21,7 @@ class anon():
     
   def gen(self):
     for i in range(10):
-      self.link += random.choice(self.chars)
+      self.code += random.choice(self.chars)
       self.checker()
       
   def checker(self):
