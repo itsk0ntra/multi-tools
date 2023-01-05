@@ -1,3 +1,5 @@
+import os
+import time
 from requests import get, post
 from random import randint
 
@@ -12,6 +14,20 @@ class bcolors:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
 
+def clearcmd():
+    os.system('cls' if os.name == 'nt' else 'clear')
+
+choice = input("do you want to use proxies?(y/n)")
+if choice == "y":
+    clearcmd()
+    os.system('python ./data/scripts/proxy_checker.py')
+elif choice == "n":
+    clearcmd()
+else:
+    print("invalid answer!")
+    time.sleep(2.00)
+    os.system('python ./data/scripts/discord_checker.py')
+    
 def variant1(token):
     with open('./config/tokens.txt', 'r') as tokens:
             for token in tokens.read().split('\n'):
