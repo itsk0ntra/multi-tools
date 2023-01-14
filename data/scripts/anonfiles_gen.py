@@ -13,10 +13,9 @@ class console():
 \____|__  /___|  /\____/|___|  /\___  /   |__|____/\___  >____  >
         \/     \/            \/     \/                 \/     \/
                                                      
-        {Fore.RESET}github.com/{Fore.RED}itsstremz{Fore.RESET} | github.com/{Fore.RED}itssnee{Fore.RESET} | github.com/itssnee/{Fore.RED}multi-tools{Fore.RESET}      
+        {Fore.RESET}github.com/{Fore.RED}itsstremz{Fore.RESET} | github.com/{Fore.RED}itssnee{Fore.RESET} | github.com/itssnee/{Fore.RED}multi-tools{Fore.RESET} on top      
 
     """)
-
 console()
 
 class anon():
