@@ -37,12 +37,12 @@ this project is open source so you can see how easy it is to hack/crack somethin
 # Features
 | **🟢working**             | **🔴patched** | **🟡in development/updating (maybe doesn't work)** | **🟠detected by anti virus** | **🔵will be added soon**                                                                                                             |
 |--------------------------|--------------|-------------------------------------------------------------------------|----------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-| 🟢Discord Account Backup  |              | 🟡Discord Server Joiner via a token                                      | 🟠Discord Account Grabber                           | 🔵tutorial section|
+| 🟢Discord Account Backup  |              | 🟡Discord Token Server Joiner                                    | 🟠Discord Account Grabber                           | 🔵tutorial section|
 | 🟢Discord Account Checker |              |                                                                         | 🟠PC Grabber (grabs almost everything from the pc)  | 🔵cookie grabber                                                                                                                                     |
 | 🟢Discord Server lookup   |              |                                                                         | 🟠Blank Grabber                                     | 🔵powerful rat logs                                                                                                                                   |
 | 🟢Discord Server Nuker    |              |                                                                         |                                                    |                                                                                                                                     |
 | 🟢Password Generator      |              |                                                                         |                                                    |                                                                                                                                     |
-| 🟢qr code creator         |              |                                                                         |                   |
+|🟢qr code creator         |              |                                                                         |                   |
 |🟢pc fucker                |              |                                                                          |                   |
 |🟢Discord Account Proxy Checker               |              |                                                                          |                   |
 
