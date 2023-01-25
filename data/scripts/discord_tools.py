@@ -50,7 +50,7 @@ ________  .__                              .___ ___________           .__
         os.system('python ./data/scripts/discord_nuker.py')
     elif USER_OPTION == "3":
         clearcmd()
-        lookup())
+        lookup()
     elif USER_OPTION == "4":
         clearcmd()
         os.system("python main.py")
