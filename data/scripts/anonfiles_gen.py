@@ -32,10 +32,10 @@ class anon():
         r = requests.get(f'https://api.anonfiles.com/v2/file/{self.link}/info').json()
 
         if(r['status'] == "True"):
-            print(f"[{Fore.LIGHTRED_EX}{time.strftime('%H:%M:%S', time.localtime())}{Fore.RESET}] {Fore.BLUE}Working Code: {r['data']['file']['metadata']['id']}{Fore.RESET}  |  Name: {self.link}{Fore.RESET}")
+            print(f"{Fore.BLUE}[{Fore.RESET}{Fore.LIGHTRED_EX}{time.strftime('%H:%M:%S', time.localtime())}{Fore.RESET}{Fore.BLUE}] {Fore.BLUE}Working Code: {r['data']['file']['metadata']['id']}{Fore.RESET}  |  Name: {self.link}{Fore.RESET}")
             open('./data/output/hits.txt', 'a+').write(f'https://anonfiles.com/{code_id}/{name}\n')
         else:
-            print(f"[{Fore.LIGHTRED_EX}{time.strftime('%H:%M:%S', time.localtime())}{Fore.RESET}] {Fore.BLUE}Invalid Code: {self.link} | Error: {r['error']['type']}")
+            print(f"{Fore.BLUE}[{Fore.RESET}{Fore.LIGHTRED_EX}{time.strftime('%H:%M:%S', time.localtime())}{Fore.RESET}{Fore.BLUE}] {Fore.BLUE}Invalid Code: {self.link} | Error: {r['error']['type']}")
             
 while True:
     threading.Thread(target=anon().gen_code()).start()
