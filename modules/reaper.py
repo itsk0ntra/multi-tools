@@ -2,6 +2,7 @@
 
 import os
 import pyautogui
+import subprocess
 
 lol = input("""
 you can download the instant version(without input) at https://github.com/itsstremz/pc-crasher/tree/main
