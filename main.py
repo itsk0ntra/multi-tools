@@ -94,9 +94,6 @@ def grabbers():
        clearcmd()
        os.system('python ./data/grabber_scripts/blank_grabber.py')
 
-def fucker():
-  fuck()
-
 def zyzz():
   print(bcolors.OKBLUE + "Today's date:",today)
   print(bcolors.OKBLUE + "https://github.com/itssnee/multi-tools/")
@@ -134,3 +131,4 @@ def zyzz():
     clearcmd()
     os.system('python ./modules/reaper.py')
 zyzz()
+#made by Snee and Stremz, github.com/itssnee/multi-tools
