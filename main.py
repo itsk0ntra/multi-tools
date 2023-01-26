@@ -9,7 +9,7 @@ from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
 from data.grabber_scripts.snee_grabber import snee
 
-ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.6 | https://github.com/itssnee/multi-tools ")
+ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.6.1 | https://github.com/itssnee/multi-tools ")
 
 class bcolors:
     HEADER = '\033[95m'
