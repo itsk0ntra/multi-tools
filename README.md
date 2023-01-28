@@ -23,6 +23,9 @@ https://github.com/Blank-c/ for the trojan grabber
 https://github.com/itsstremz/ for helping me making this project :]
 
 # Information
+There are probably way better ideas/ways to make a program like this, but since it's free it only needs to work, enjoy I guess.
+If you think this is a virus, you can look through the code, I mean it's open source so ye lmao.
+
 I will update this project almost every day, so watch out for updates and give the project a star to support me :)
 
 I'm mostly tired while I code this, so if something doesn't work just open an issue thing and don't be mad.
