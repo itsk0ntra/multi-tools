@@ -1,6 +1,8 @@
 # Preview
 ![image](https://media.discordapp.net/attachments/1021828286541733978/1060661854852104262/image.png)
 
+More stars, more updates.
+
 [Releases](https://github.com/itssnee/multi-tools/releases/)
 # Multi-Tools
 please don't use this project for illegal purposes. i am not responsible for the user's actions.
