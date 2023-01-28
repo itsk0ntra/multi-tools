@@ -36,10 +36,10 @@ ________  .__                              .___ ___________           .__
     [1] Discord Token Checker
     [2] (Bot Account Only) Discord Server Nuker
     [3] Discord Server ID Lookup
-    [4] Back
-    [5] Better Discord Section
-    [6] Discord Server Joiner
-    [7] Quit
+    [4] Better Discord Section
+    [5] Discord Server Joiner
+    [6] Quit
+    [0] Back
     """)
     USER_OPTION = input(bcolors.OKBLUE +     "[>] ")
     if USER_OPTION == "1":
@@ -51,14 +51,14 @@ ________  .__                              .___ ___________           .__
     elif USER_OPTION == "3":
         clearcmd()
         lookup()
-    elif USER_OPTION == "4":
+    elif USER_OPTION == "0":
         clearcmd()
         os.system("python main.py")
-    elif USER_OPTION == "5":
-        quit()
     elif USER_OPTION == "6":
+        quit()
+    elif USER_OPTION == "4":
         clearcmd()
         better_dc()
-    elif USER_OPTION == "7":
+    elif USER_OPTION == "5":
         clearcmd()
         os.system('python ./data/scripts/discord_joiner.py')
