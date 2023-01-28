@@ -36,6 +36,7 @@ __________        __    __                 ________  .__                        
     [1] Recommended Themes
     [2] Recommended Plugins
     [3] Quit
+    [0] Back
     """)
     USER_OPTION = input(bcolors.OKBLUE +     "[>] ")
     if USER_OPTION == "1":
@@ -59,3 +60,6 @@ __________        __    __                 ________  .__                        
               \__/                            \//_____/  
        """)
         time.sleep(2.00)
+    elif USER_OPTION == "0":
+        clearcmd()
+        os.system('python main.py')
