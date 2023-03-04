@@ -1,5 +1,5 @@
 # Preview
-![image](https://media.discordapp.net/attachments/1021828286541733978/1060661854852104262/image.png)
+![image](https://media.discordapp.net/attachments/1081507949417091132/1081544989902913557/image.png)
 
 More stars, more updates.
 
