@@ -15,9 +15,9 @@ class bcolors:
 def clearcmd():
     os.system('cls' if os.name == 'nt' else 'clear')
 
-def snee():
+def k0ntra():
     clearcmd()
-    ctypes.windll.kernel32.SetConsoleTitleW("Snee Grabber | github.com/itssnee")
+    ctypes.windll.kernel32.SetConsoleTitleW("K0ntra Grabber | github.com/itsk0ntra")
     print(bcolors.OKBLUE + "it is currently being made...")
     print(bcolors.OKBLUE + "press 1 to go back")
     print(bcolors.OKBLUE + "press 2 to check the grabber status!")
@@ -27,5 +27,5 @@ def snee():
         os.system("python main.py")
     elif USER_OPTION == "2":
         clearcmd()
-        print("Snee grabber is currently being made...")
-        snee()
+        print("k0ntra grabber is currently being made...")
+        k0ntra()
