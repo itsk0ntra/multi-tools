@@ -3,7 +3,7 @@
 
 More stars, more updates.
 
-[Releases](https://github.com/itssnee/multi-tools/releases/)
+[Releases](https://github.com/itsk0ntra/multi-tools/releases/)
 # Multi-Tools
 please don't use this project for illegal purposes. i am not responsible for the user's actions.
 
@@ -51,7 +51,7 @@ this project is open source so you can see how easy it is to hack/crack somethin
 |🟢pc fucker                |              |                               |                   |
 |🟢Discord Account Proxy Checker               |              |            |                   |
 
-# BuT sNeE, iF yOu CaN cOdE, wHy DoN't u MaKe It YoUrSeLf
+# BuT k0nTrA, iF yOu CaN cOdE, wHy DoN't u MaKe It YoUrSeLf
 Because I don't want to waste time since this project is free anyways
 
 # Why isn't it only one file?
@@ -62,4 +62,4 @@ Because I don't want to waste time since this project is free anyways
 3. So you can't just (instantly) obfusocate and resell it :]
 
 # Main Developers
-[Snee](https://github.com/itssnee/) and [Stremz](https://github.com/itsstremz)
+[K0ntra](https://github.com/itsk0ntra/) and [Stremz](https://github.com/itsstremz)
