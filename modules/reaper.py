@@ -5,6 +5,7 @@ import pyautogui
 import subprocess
 
 lol = input("""
+this just was a test, it isnt really a pc fucker, it just messes with ur pc a bit and probably wont crash you lmao.
 you can download the instant version(without input) at https://github.com/itsstremz/pc-crasher/tree/main
 if you don't want your pc to get fucked, close the program now since the reaper module is build to crash your pc
 """)
