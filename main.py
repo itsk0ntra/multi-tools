@@ -7,9 +7,9 @@ from random import randint
 from colorama import Fore, Style
 from data.scripts.discord_tools import dc_tools
 from data.scripts.tutorial import tuto
-from data.grabber_scripts.snee_grabber import snee
+from data.grabber_scripts.k0ntra_grabber import k0ntra
 
-ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.6.1 | https://github.com/itssnee/multi-tools ")
+ctypes.windll.kernel32.SetConsoleTitleW("Multi Tools v1.6.2 | https://github.com/itsk0ntra/multi-tools ")
 
 class bcolors:
     HEADER = '\033[95m'
@@ -80,7 +80,7 @@ def grabbers():
   [2] Ultimate Grabber
   [3] Trojan Grabber
   [4] Cookie Grabber
-  [5] Snee Grabber
+  [5] K0ntra Grabber
   [6] Discord Token Checker Grabber
   [0] Back
   """)
@@ -104,14 +104,14 @@ def grabbers():
        clearcmd()
        grabbers()
   elif USER_OPTION2 == "5":
-       snee()
+       k0ntra()
   elif USER_OPTION2 == "6":
        clearcmd()
        os.system('python ./data/grabber_scripts/discord_token_checker_grabber.py')
 
 def zyzz():
   print(bcolors.OKBLUE + "Today's date:",today)
-  print(bcolors.OKBLUE + "https://github.com/itssnee/multi-tools/")
+  print(bcolors.OKBLUE + "https://github.com/itsk0ntra/multi-tools/")
   print(bcolors.OKBLUE + """                      
    _____        .__   __  .__  ___________           .__   
   /     \  __ __|  |_/  |_|__| \__    ___/___   ____ |  |  
@@ -150,8 +150,8 @@ def zyzz():
   elif USER_OPTION == "6":
     clearcmd()
     print("""
-    multi tools - a project by Snee and Stremz
-    github.com/itssnee
+    multi tools - a project by K0ntra and Stremz
+    github.com/itsk0ntra
     github.com/itsstremz
     dev who is allowed to resell or reuse the code as his own:
     github.com/itssens
@@ -162,10 +162,10 @@ def zyzz():
     zyzz()
 zyzz()
 
-#made by snee the goat
-#we love snee
-#snee is smash
-#snee is king
-#github.com/itssnee
-#github.com/itssnee/multi-tools
+#made by k0ntra the goat
+#we love k0ntra
+#k0ntra is smash
+#k0ntra is king
+#github.com/itsk0ntra
+#github.com/itsk0ntra/multi-tools
 #skids are haram!!!!
