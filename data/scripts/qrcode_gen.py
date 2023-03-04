@@ -1,7 +1,7 @@
 import qrcode
 import time
 
-print("https://github.com/itssnee/ on top")
+print("https://github.com/itsk0ntra/ on top")
 print("""
 ________ __________  _________            .___          ________               
 \_____  \\______   \ \_   ___ \  ____   __| _/____     /  _____/  ____   ____  
@@ -16,5 +16,5 @@ img = qrcode.make(data)
 img.save('QRCode.png')
 print("saved qr code as QRCode.png in this folder.")
 print("if you enjoyed the program, please give it a star on github.")
-print("https://github.com/itssnee/multi-tools")
+print("https://github.com/itsk0ntra/multi-tools")
 time.sleep(5.00)
