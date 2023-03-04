@@ -13,7 +13,7 @@ class console():
 \____|__  /___|  /\____/|___|  /\___  /   |__|____/\___  >____  >
         \/     \/            \/     \/                 \/     \/
                                                      
-        {Fore.RESET}github.com/{Fore.RED}itsstremz{Fore.RESET} | github.com/{Fore.RED}itssnee{Fore.RESET} | github.com/itssnee/{Fore.RED}multi-tools{Fore.RESET} on top      
+        {Fore.RESET}github.com/{Fore.RED}itsstremz{Fore.RESET} | github.com/{Fore.RED}itsk0ntra{Fore.RESET} | github.com/itsk0ntra/{Fore.RED}multi-tools{Fore.RESET} on top      
 
     """)
 console()
@@ -33,7 +33,7 @@ class anon():
 
         if(r['status'] == "True"):
             print(f"{Fore.BLUE}[{Fore.RESET}{Fore.LIGHTRED_EX}{time.strftime('%H:%M:%S', time.localtime())}{Fore.RESET}{Fore.BLUE}] {Fore.BLUE}Working Code: {r['data']['file']['metadata']['id']}{Fore.RESET}  |  Name: {self.link}{Fore.RESET}")
-            open('./data/output/hits.txt', 'a+').write(f'https://anonfiles.com/{code_id}/{name}\n')
+            open('./data/output/hits.txt', 'a+').write(f'https://anonfiles.com/{self.link}/\n')
         else:
             print(f"{Fore.BLUE}[{Fore.RESET}{Fore.LIGHTRED_EX}{time.strftime('%H:%M:%S', time.localtime())}{Fore.RESET}{Fore.BLUE}] {Fore.BLUE}Invalid Code: {self.link} | Error: {r['error']['type']}")
             
