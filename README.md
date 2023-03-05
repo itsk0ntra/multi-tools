@@ -46,10 +46,11 @@ this project is open source so you can see how easy it is to hack/crack somethin
 | 🟢Discord Account Checker |              |                               | 🟠PC Grabber (grabs almost everything from the pc)  | 🔵cookie grabber                                                                                                                                     |
 | 🟢Discord Server lookup   |              |                               | 🟠Blank Grabber                                     | 🔵powerful rat logs                                                                                                                                   |
 | 🟢Discord Server Nuker    |              |                               |                                                    |🔵k0ntra grabber                                                                                                                                     |
-| 🟢Password Generator      |              |                               |                                                    |🔵token checker scam grabber                                                                                                                                     |
+| 🟢Password Generator      |              |                               |                                                    |                                                                                                                                     |
 |🟢qr code creator         |              |                                |                   |
 |🟢pc fucker                |              |                               |                   |
 |🟢Discord Account Proxy Checker               |              |            |                   |
+|🟢token checker scam grabber              |              |            |                   |
 
 # BuT k0nTrA, iF yOu CaN cOdE, wHy DoN't u MaKe It YoUrSeLf
 Because I don't want to waste time since this project is free anyways
